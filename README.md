@@ -7,7 +7,8 @@ List of tools I install on every freshly imaged vm
 2. Steghide apt install steghide
 3. Zsteg gem install zsteg
 4. Seclists apt install seclists
-5. SonicVisualizer for waveforms you can find it on their site
+5. SonicVisualizer
+- https://www.sonicvisualiser.org/download.html
 
 
 # Crypto/Decoding
