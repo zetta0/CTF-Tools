@@ -14,5 +14,6 @@ List of tools I install on every freshly imaged vm
 # Crypto/Decoding
 1. RsaCtfTool https://github.com/Ganapati/RsaCtfTool
 2. CyberChef download (Sometimes during physical pentests you will have to use a network without internet access)
+- https://gchq.github.io/CyberChef/
 
 
